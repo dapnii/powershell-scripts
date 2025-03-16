@@ -28,5 +28,3 @@ Once script is ran you must enter
 1) username of admin account you wish to use to connect to remote device
 2) password
 3) hostname of this machine
-
-![image](https://github.com/dapnii/Remote-Tool/assets/116521500/64156c90-9e43-464d-a9c7-9df785895ffc)
