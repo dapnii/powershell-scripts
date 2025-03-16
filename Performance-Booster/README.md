@@ -22,22 +22,8 @@ Script performs listed below actions:
 
 In order to run all you have to do is right click and choose Run with Powershell (REQUIRES ELEVATED ACCESS).
 
-![image](https://github.com/dapnii/Performance-Booster-Powershell-Script/assets/116521500/ad93fce4-d731-440c-9029-c265c670650b)
-
-
-
-
 In case you get prompted about Execution Policy Change, type 'Y' and press enter.
 
-![image](https://github.com/dapnii/Performance-Booster-Powershell-Script/assets/116521500/10d3b3f4-c664-48e1-9d55-2e53dcbf0205)
-
-
-
-
-
-**BENCHMARK TEST**
-
-![image](https://github.com/dapnii/Performance-Booster-Powershell-Script/assets/116521500/c4093400-d252-4a92-bc68-f0a07f3d052d)
 
 
 
